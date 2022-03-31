@@ -1,1 +1,1 @@
-# weekly_agenda_2_pandas
+# Pandas Exercises
